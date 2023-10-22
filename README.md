@@ -1,6 +1,6 @@
 # CS-340
 
-# Writing programs that are maintainable, readable, and adaptable is a fundamental aspect of software development. In the context of my work on the CRUD Python module for Project One, which was utilized to connect the dashboard widgets to the database in Project Two, there were several strategies employed to ensure these qualities.
+### Writing programs that are maintainable, readable, and adaptable is a fundamental aspect of software development. In the context of my work on the CRUD Python module for Project One, which was utilized to connect the dashboard widgets to the database in Project Two, there were several strategies employed to ensure these qualities.
 
 - **Modular Design**: The CRUD Python module was designed with modularity in mind. It encapsulated database interactions, making the codebase organized and easy to maintain. This modularity allows for easier debugging, updating, and scaling in the future.
 - **Naming Conventions**: Choosing meaningful and consistent variable and function names helped make the code more readable. Using descriptive names for variables, functions, and classes improves the code's clarity and reduces the need for comments.
