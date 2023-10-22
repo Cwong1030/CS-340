@@ -1,6 +1,6 @@
 # CS-340
 
-### Writing programs that are maintainable, readable, and adaptable is a fundamental aspect of software development. In the context of my work on the CRUD Python module for Project One, which was utilized to connect the dashboard widgets 
+1) Writing programs that are maintainable, readable, and adaptable is a fundamental aspect of software development. In the context of my work on the CRUD Python module for Project One, which was utilized to connect the dashboard widgets 
 to the database in Project Two, there were several strategies employed to ensure these qualities.
 
 - **Modular Design**: The CRUD Python module was designed with modularity in mind. It encapsulated database interactions, making the codebase organized and easy to maintain.
@@ -18,7 +18,7 @@ In the future, the CRUD Python module can be used in various ways:
 - **Sharing and Collaboration**: Sharing the module as an open-source library can contribute to its maintenance and adaptation. Collaboration with other developers can lead to improvements and additional features.
 
 
-### As a computer scientist, I approach problems methodically, breaking them down into manageable steps:
+2) As a computer scientist, I approach problems methodically, breaking them down into manageable steps:
 
 - **Understanding Requirements**: I begin by thoroughly understanding the problem and its requirements. For the database and dashboard projects, this involved clarifying what Grazioso Salvare needed and how to fulfill those needs.
 - **Design and Planning**: I plan the solution, including the architecture, data structures, and algorithms. In the case of database and dashboard requirements, this entailed designing the data schema and selecting appropriate technologies.
@@ -37,4 +37,4 @@ In the future, I would use similar techniques and strategies to create databases
 - **Security**: Implementing robust security measures to protect sensitive data is crucial.
 - **Performance Optimization**: Regular monitoring and optimization of the database to ensure it performs efficiently, especially in applications with high user loads.
 
-### As for the role of computer scientists, we design, create, and optimize software and systems to solve complex problems. Our work matters because it drives innovation, enhances efficiency, and empowers organizations and individuals. In the case of projects like the one for Grazioso Salvare, our work can help a company improve its operations by providing data-driven insights, streamlining processes, and enabling better decision-making. In a broader context, computer scientists contribute to advancements in various fields, from healthcare to finance, making a significant impact on society and the global economy.
+3) As for the role of computer scientists, we design, create, and optimize software and systems to solve complex problems. Our work matters because it drives innovation, enhances efficiency, and empowers organizations and individuals. In the case of projects like the one for Grazioso Salvare, our work can help a company improve its operations by providing data-driven insights, streamlining processes, and enabling better decision-making. In a broader context, computer scientists contribute to advancements in various fields, from healthcare to finance, making a significant impact on society and the global economy.
