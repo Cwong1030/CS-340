@@ -18,7 +18,7 @@ In the future, the CRUD Python module can be used in various ways:
 - **Sharing and Collaboration**: Sharing the module as an open-source library can contribute to its maintenance and adaptation. Collaboration with other developers can lead to improvements and additional features.
 
 
-2) As a computer scientist, I approach problems methodically, breaking them down into manageable steps:
+2) As a computer scientist, I approach problems by breaking them down into manageable steps:
 
 - **Understanding Requirements**: I begin by thoroughly understanding the problem and its requirements. For the database and dashboard projects, this involved clarifying what Grazioso Salvare needed and how to fulfill those needs.
 - **Design and Planning**: I plan the solution, including the architecture, data structures, and algorithms. In the case of database and dashboard requirements, this entailed designing the data schema and selecting appropriate technologies.
@@ -37,4 +37,4 @@ In the future, I would use similar techniques and strategies to create databases
 - **Security**: Implementing robust security measures to protect sensitive data is crucial.
 - **Performance Optimization**: Regular monitoring and optimization of the database to ensure it performs efficiently, especially in applications with high user loads.
 
-3) As for the role of computer scientists, we design, create, and optimize software and systems to solve complex problems. Our work matters because it drives innovation, enhances efficiency, and empowers organizations and individuals. In the case of projects like the one for Grazioso Salvare, our work can help a company improve its operations by providing data-driven insights, streamlining processes, and enabling better decision-making. In a broader context, computer scientists contribute to advancements in various fields, from healthcare to finance, making a significant impact on society and the global economy.
+3) The role of computer scientists, we design, create, and optimize software and systems to solve complex problems. Our work matters because it drives innovation, enhances efficiency, and empowers organizations and individuals. In the case of projects like the one for Grazioso Salvare, our work can help a company improve its operations by providing data-driven insights, streamlining processes, and enabling better decision-making. In a broader context, computer scientists contribute to advancements in various fields, from healthcare to finance, making a significant impact on society and the global economy.
