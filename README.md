@@ -28,7 +28,7 @@ My approach to the project for Grazioso Salvare differed from previous assignmen
 In the future, I would use similar techniques and strategies to create databases to meet other client requests:
 
 - Requirement Analysis: A thorough understanding of the client's needs is essential. This involves effective communication and documentation of requirements.
-- Data Modeling: I would design a database schema that aligns with the data requirements, ensuring data integrity and efficiency.
+- Data Modeling: I would design a database that aligns with the data requirements, ensuring data integrity and efficiency.
 - Scalability: The architecture should be designed with scalability in mind, allowing for growth and changes in data volume.
 - Security: Implementing robust security measures to protect sensitive data is crucial.
 - Performance Optimization: Regular monitoring and optimization of the database to ensure it performs efficiently, especially in applications with high user loads.
